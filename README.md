@@ -9,3 +9,4 @@
 
 
 ## 실행 모습 
+![image](https://user-images.githubusercontent.com/51309615/150361502-930ed17b-bb6c-446d-9d77-9c36e7cad70e.png)
